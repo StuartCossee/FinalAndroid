@@ -6,6 +6,13 @@
     <string name="urgent">Urgente</string>
     <string name="add">AJOUTER</string>
     <string name="delete">Voulez-vous supprimer ceci ?</string>
+    <string name="display">Afficher les articles de la BBC</string>
+    <string name="welcome">Welcome to the BBC Application Reader</string>
+    <string name="article_title">Bienvenue sur le lecteur d`applications de la BBC</string>
+    <string name="article_date">Date de l`article</string>
+    <string name="article_content">Contenu de l`article</string>
+    <string name="article_view">Afficher l`article dans le navigateur</string>
+    <string name="finish">Chargement des articles de la BBC terminé</string>
     <string name="selectedrow">La ligne sélectionnée est</string>
     <string name="yes">Oui</string>
     <string name="no">Non</string>
