@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Projet final - Entrez votre nom</string>
+    <string name="app_name_revised">Projet final</string>
+    <string name="type_here">Écrivez ici</string>
+    <string name="urgent">Urgente</string>
+    <string name="add">AJOUTER</string>
+    <string name="delete">Voulez-vous supprimer ceci ?</string>
+    <string name="selectedrow">La ligne sélectionnée est</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+</resources>
